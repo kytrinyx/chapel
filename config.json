@@ -1,0 +1,21 @@
+{
+  "slug": "chapel",
+  "language": "Chapel",
+  "repository": "https://github.com/exercism/xchapel",
+  "active": false,
+  "test_pattern": "TODO",
+  "exercises": [
+
+  ],
+  "deprecated": [
+
+  ],
+  "ignored": [
+    "bin",
+    "img",
+    "docs"
+  ],
+  "foregone": [
+
+  ]
+}
