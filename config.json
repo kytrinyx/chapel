@@ -1,7 +1,7 @@
 {
   "slug": "chapel",
   "language": "Chapel",
-  "repository": "https://github.com/exercism/xchapel",
+  "repository": "https://github.com/exercism/chapel",
   "active": false,
   "test_pattern": "TODO",
   "exercises": [
